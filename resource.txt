@@ -1,0 +1,6 @@
+http://www.face-rec.org/databases/
+
+* Face Recognition Data, University of Essex, UK
+** https://cswww.essex.ac.uk/mv/allfaces/index.html
+395 individuals (male and female), 20 images per individual. Contains images of people of various racial origins, mainly of first year undergraduate students, so the majority of indivuals are between 18-20 years old but some older individuals are also present. Some individu
+
